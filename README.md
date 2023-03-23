@@ -18,6 +18,7 @@
 [IDC_OSED_scripts](https://github.com/tin-z/IDC_OSED_scripts) | IDC plugins to support OSED exam preparation | IDC, IDA 
 [malware-naming](https://github.com/tin-z/malware-naming) | Extract malware naming convention | malware analysis
 [pthC](https://github.com/tin-z/pthC) | basic code tracing with scala DSL and intel pt | scala, intel pt
+[scheappes.py](https://gist.github.com/tin-z/c8920a66a8791ea8f7d54f4304c65656) | heap memory inspection | python, ptmalloc2
 
 <br>
 
@@ -30,6 +31,24 @@
 [BFS Ekoparty 2022 challenge](https://github.com/tin-z/report_BFS_ekoparty_2022_exploitation_challenges) | BFS 2022 ekoparty windows challenge writeup | windows, exploit
 [coccinelle_exercises](https://github.com/tin-z/coccinelle_exercises) | variant analysis with coccinelle | coccinelle, linux
 [CVE-2018-14714-POC](https://github.com/tin-z/CVE-2018-14714-POC) | poc of CVE-2018-14714 | asus, rce
+
+<br>
+
+**Notes & cheatsheets:**
+|  | __Brief description__  | __Label__  |
+:--------------- | :--------------------  | :---------:
+[The Art of Software Security Assessment notes](https://gist.github.com/tin-z/b5da60a56947b03c977baf260d687601) | notes | software analysis
+[The Linux Programming Interface notes](https://gist.github.com/tin-z/17292073289c0451b72e1108d20a2116) | notes | C, linux
+["Reverse Engineering 3201: Symbolic Analysis" class notes](https://gist.github.com/tin-z/e03f1eafece072fb1f6ca0e9413fc93a) | notes | python, symbolic execution
+[GDB extra tips memo](https://gist.github.com/tin-z/366bdec4c2bdbd3edf5ed68cc49a0cd8) | notes | gdb
+[C/C++ and inline assembly notes](https://gist.github.com/tin-z/babd0ca6fa768038abeae5cc1b6d5939) | notes | c
+[Roadmap to learn fuzzing](https://gist.github.com/tin-z/23f00e5bafacc7cd3676ac82b1dab8b0) | roadmap | fuzzing
+[roadmap to variant analysis](https://gist.github.com/tin-z/e303eb05686944587f2017f65927446e) | roadmap | software analysis
+[roadmap_network-infrastructure_pen_testing.md](https://gist.github.com/tin-z/7c703840903089c27c5f042cc59d8e16) | roadmap | penetration testing
+[roadmap_web_hacking_wapt.md](https://gist.github.com/tin-z/57f3cb0d6f21056274dfd129bbbb5675) | roadmap | wapt
+[roadmap_windows_exploit.md](https://gist.github.com/tin-z/2be9bc434adffcae70e05e9aefffe054) | roadmap | ctf, windows, exploit
+[IDAPython cheatsheet](https://gist.github.com/tin-z/7115afece5213bc20d1cebe4392822d4) | cheatsheet | ida, python
+[Radare2 cheatsheet](https://gist.github.com/tin-z/b80498d4ded2d55a74b0372b10653910) | cheatsheet | r2
 
 
 <br>
