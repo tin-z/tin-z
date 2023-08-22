@@ -31,6 +31,8 @@
 [BFS Ekoparty 2022 challenge](https://github.com/tin-z/report_BFS_ekoparty_2022_exploitation_challenges) | BFS 2022 ekoparty windows challenge writeup | windows, exploit
 [coccinelle_exercises](https://github.com/tin-z/coccinelle_exercises) | variant analysis with coccinelle | coccinelle, linux
 [CVE-2018-14714-POC](https://github.com/tin-z/CVE-2018-14714-POC) | poc of CVE-2018-14714 | asus, rce
+[IoT_toolbox](https://github.com/tin-z/IoT_toolbox) | IoT rudimentary tools | iot, tools
+[CVE-2023-35086-POC](https://github.com/tin-z/CVE-2023-35086-POC) | poc of CVE-2023-35086-POC | router, asus, DoS
 
 <br>
 
