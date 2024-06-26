@@ -17,7 +17,6 @@
 [OSED_scripts](https://github.com/tin-z/OSED_scripts) | Scripts developed for OSED exam preparation | OSED, python
 [IDC_OSED_scripts](https://github.com/tin-z/IDC_OSED_scripts) | IDC plugins to support OSED exam preparation | IDC, IDA 
 [malware-naming](https://github.com/tin-z/malware-naming) | Extract malware naming convention | malware analysis
-[pthC](https://github.com/tin-z/pthC) | basic code tracing with scala DSL and intel pt | scala, intel pt
 [scheappes.py](https://gist.github.com/tin-z/c8920a66a8791ea8f7d54f4304c65656) | heap memory inspection | python, ptmalloc2
 
 <br>
