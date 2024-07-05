@@ -1,12 +1,3 @@
-**Web3 security:**
-|  | __Brief description__  | __Label__  |
-:--------------- | :--------------------  | :---------:
-[smart_contract_auditor_tool](https://github.com/tin-z/smart_contract_auditor_tool) | Tool for doing security checks on smart contracts | slither, solidity, python 
-[Audits](https://github.com/tin-z/Audits) | Smart contract audits that i have done | code audit, solidity
-[solidity_CVE-2021-42574-POC](https://github.com/tin-z/solidity_CVE-2021-42574-POC) |  POC of CVE-2021-42574 for solidity and solc compiler | solidity
-
-<br>
-
 **Binary Analysis:**
 |  | __Brief description__  | __Label__  |
 :--------------- | :--------------------  | :---------:
@@ -26,7 +17,7 @@
 [Stuff_and_POCs](https://github.com/tin-z/Stuff_and_POCs) | Containing vulnerabilities I've discovered and maybe CVE | vulnerability research, exploit 
 [CVE-2020-36109-POC](https://github.com/tin-z/CVE-2020-36109-POC) | poc of CVE-2020-36109 | router, asus, DoS
 [CVE-2021-20294-POC](https://github.com/tin-z/CVE-2021-20294-POC) | poc of CVE-2021-20294 | readelf, overflow
-[BFS Ekoparty 2022 challenge](https://github.com/tin-z/report_BFS_ekoparty_2022_exploitation_challenges) | BFS 2022 ekoparty windows challenge writeup | windows, exploit
+[BFS Ekoparty 2022 challenge](https://github.com/tin-z/report_BFS_ekoparty_2022_exploitation_challenges) | BFS 2022 ekoparty windows challenge writeup | windows, ctf, exploit
 [coccinelle_exercises](https://github.com/tin-z/coccinelle_exercises) | variant analysis with coccinelle | coccinelle, linux
 [CVE-2018-14714-POC](https://github.com/tin-z/CVE-2018-14714-POC) | poc of CVE-2018-14714 | asus, rce
 [IoT_toolbox](https://github.com/tin-z/IoT_toolbox) | IoT rudimentary tools | iot, tools
@@ -34,9 +25,19 @@
 
 <br>
 
+**Web3 security:**
+|  | __Brief description__  | __Label__  |
+:--------------- | :--------------------  | :---------:
+[smart_contract_auditor_tool](https://github.com/tin-z/smart_contract_auditor_tool) | Tool for doing security checks on smart contracts | slither, solidity, python 
+[Audits](https://github.com/tin-z/Audits) | Smart contract audits that i have done | code audit, solidity
+[solidity_CVE-2021-42574-POC](https://github.com/tin-z/solidity_CVE-2021-42574-POC) |  POC of CVE-2021-42574 for solidity and solc compiler | solidity
+
+<br>
+
 **Notes & cheatsheets:**
 |  | __Brief description__  | __Label__  |
 :--------------- | :--------------------  | :---------:
+[Becoming a Vulnerability Researcher roadmap: my personal experience](https://gist.github.com/tin-z/a469e996f8107a5ca8d3c858a2a4b65f) | roadmap | vulnerability research
 [The Art of Software Security Assessment notes](https://gist.github.com/tin-z/b5da60a56947b03c977baf260d687601) | notes | software analysis
 [The Linux Programming Interface notes](https://gist.github.com/tin-z/17292073289c0451b72e1108d20a2116) | notes | C, linux
 ["Reverse Engineering 3201: Symbolic Analysis" class notes](https://gist.github.com/tin-z/e03f1eafece072fb1f6ca0e9413fc93a) | notes | python, symbolic execution
@@ -49,7 +50,6 @@
 [roadmap_windows_exploit.md](https://gist.github.com/tin-z/2be9bc434adffcae70e05e9aefffe054) | roadmap | ctf, windows, exploit
 [IDAPython cheatsheet](https://gist.github.com/tin-z/7115afece5213bc20d1cebe4392822d4) | cheatsheet | ida, python
 [Radare2 cheatsheet](https://gist.github.com/tin-z/b80498d4ded2d55a74b0372b10653910) | cheatsheet | r2
-
 
 <br>
 <br>
